@@ -27,6 +27,7 @@
 | **GapSVP-$\sqrt{n}$** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
 | **3-Sphere Recognition** | ✓ | ✓ (GRH) | ? | ? | ? | [Sch11], [Zen18] |
 | **Unknotting Problem** | ✓ | ✓ | ?* | ?* | ? | [HLP99] ; [Lac21] |
+| **Statistical Difference** | ✓ (AM)| ✓ (coAM) | ? | ? | ? | [SV03] |
  
 ---
 ## Remarks
@@ -68,6 +69,7 @@
 * **[Pom84]** Pomerance, C. (1984, April). The quadratic sieve factoring algorithm. In Workshop on the Theory and Application of of Cryptographic Techniques (pp. 169-182). Berlin, Heidelberg: Springer Berlin Heidelberg.
 * **[Pra75]** Pratt, V. R. (1975). Every prime has a succinct certificate. SIAM Journal on Computing, 4(3), 214-220.
 * **[GSS18]** Guo, Z., Saxena, N., & Sinhababu, A. (2019). Algebraic dependencies and PSPACE algorithms in approximative complexity over any field. Theory of Computing, 15(1), 1-30.
+* **[SV03]** Sahai, A., & Vadhan, S. (2003). A complete problem for statistical zero knowledge. Journal of the ACM (JACM), 50(2), 196-249.
 * **[Sch11]** Schleimer, S. (2011). Sphere recognition lies in NP. Low-dimensional and symplectic topology, 82(183-213), 1.
 * **[Sho94]** Shor, P. W. (1994, November). Algorithms for quantum computation: discrete logarithms and factoring. In Proceedings 35th annual symposium on foundations of computer science (pp. 124-134). Ieee.
 * **[Mil78]** Miller, G. L. (1978, May). On the nlog n isomorphism technique (a preliminary report). In Proceedings of the tenth annual ACM symposium on theory of computing (pp. 51-58).
