@@ -18,8 +18,8 @@
 | **Ring Isomorphism** | ✓ | ✓ (coAM) | ? | ? | ? | [KS06] |
 | **Tensor Isomorphism** | ✓ | ✓ (coAM,*) | ? | ? | ? | [GQ21] |
 | **Code Equivalence** | ✓ | ✓ (coAM) | ? | ? | ? | [PR02] |
-| **GapCVP-\sqrt{n}** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
-| **GapSVP-\sqrt{n}** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
+| **GapCVP-$\sqrt{n}$** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
+| **GapSVP-$\sqrt{n}$** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
 | **Linear Programming** | ✓ | ✓ | ✓ | ✓ | ✓ | [Kar84], [Kha79],[Far02] |
 | **Parity games** | ✓ | ✓ | ✓ | ✓ | ? | [Jur98] , [BSV03] ; [CJK+17], [EJ91] |
 | **Simple Stochastic Games** | ✓ | ✓ | ✓ | ? | ? | [Con92] , [Lud95] |
@@ -31,11 +31,11 @@
 ---
 ## Remarks
 
-* `SUBE` refer to 2^{o(n)}
+* SUBEXP refers to $2^{o(n)}$
 * Assume Derandomization, i.e. AM=NP, coAM=coNP, BPP=P
-* The quasi-polynomial time algorithm for the Discrete Logarithm problem with fixed characteristic.
+* here exists a quasi-polynomial time algorithm for the Discrete Logarithm problem over fields of fixed characteristic.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
-* A quasi-polynomial time algorithm for poyUnknotting Problem is claimed in 2021 by Lackenby. However the result has not been published yet.
+* A quasi-polynomial time algorithm for the Unknotting Problem was claimed by Lackenby in 2021. However, the result has not been formally published yet.
 
 ## References
 
