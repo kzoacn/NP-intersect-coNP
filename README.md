@@ -27,9 +27,10 @@
 ## Remarks
 
 * `SUBEXP` should be `SUBE`
+* Assume Derandomization, i.e. AM=NP, coAM=coNP, BPP=P
+* Three Steps: (1) Subexp Time Algorithms for NP ∩ coNP (2) NP ∩ coNP ⊆ QP (3) NP ∩ coNP = P
 * The quasi-polynomial time algorithm for the Discrete Logarithm problem with fixed characteristic.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
-* Three Steps: (1) Subexp Time Algorithms for NP ∩ coNP (2) NP ∩ coNP ⊆ QP (3) NP ∩ coNP = P
 
 ## References
 
