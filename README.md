@@ -26,7 +26,7 @@
 | **GapCVP-$\sqrt{n}$** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
 | **GapSVP-$\sqrt{n}$** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
 | **3-Sphere Recognition** | ✓ | ✓ (GRH) | ? | ? | ? | [Sch11], [Zen18] |
-| **Unknotting Problem** | ✓ | ✓ | ✓ | ✓* | ? | [HLP99] ; [Lac21] |
+| **Unknotting Problem** | ✓ | ✓ | ?* | ?* | ? | [HLP99] ; [Lac21] |
  
 ---
 ## Remarks
