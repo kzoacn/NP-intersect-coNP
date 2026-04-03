@@ -29,7 +29,7 @@
 * `SUBEXP` should be `SUBE`
 * The quasi-polynomial time algorithm for the Discrete Logarithm problem with fixed characteristic.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
-* (1) Subexp Time Algorithms for NP ∩ coNP (2) NP ∩ coNP ⊆ QP (3) NP ∩ coNP = P
+* Three Steps: (1) Subexp Time Algorithms for NP ∩ coNP (2) NP ∩ coNP ⊆ QP (3) NP ∩ coNP = P
 
 ## References
 
