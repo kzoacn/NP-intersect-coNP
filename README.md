@@ -31,7 +31,7 @@
 ---
 ## Remarks
 
-* SUBE refers to $2^{o(n)}$
+* SUBE refers to DTIME($2^{o(n)}$)
 * Assume Derandomization, i.e. AM=NP, coAM=coNP, BPP=P
 * here exists a quasi-polynomial time algorithm for the Discrete Logarithm problem over fields of fixed characteristic.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
