@@ -2,6 +2,8 @@
 
 根据相关文献汇总，以下是计算问题在各复杂度类（NP ∩ coNP 及其变种 AM ∩ coAM）以及亚指数时间（SUBEXP）、准多项式时间（QuasiP）和多项式时间（P）算法中的分类总结。
 
+注：其实应该使用SUBE这个记号表达亚指数时间
+
 | 问题 (Problem) | in NP (AM) | in coNP (coAM) | in SUBEXP | in QuasiP | in P | 论文来源 / 引用 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **素性判定问题 (Primality Testing)** | ✓ | ✓ | ✓ | ✓ | ✓ | [AKS02], [Pra75] |
