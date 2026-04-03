@@ -34,7 +34,7 @@
 
 * SUBE refers to DTIME($2^{o(n)}$)
 * Assume Derandomization, i.e. AM=NP, coAM=coNP, BPP=P
-* here exists a quasi-polynomial time algorithm for the Discrete Logarithm problem over fields of fixed characteristic.
+* A quasi-polynomial time algorithm for the Discrete Logarithm problem over *finite fields of fixed characteristic*.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
 * A quasi-polynomial time algorithm for the Unknotting Problem was claimed by Lackenby in 2021. However, the result has not been formally published yet.
 
