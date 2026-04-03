@@ -1,7 +1,12 @@
 # Are Languages in NP ∩ coNP Easy to Decide?
- 
 
-| Problem | in NP (AM) | in coNP (coAM) | in SUBEXP | in QuasiP | in P | Paper Source / Citation |
+
+* NP ∩ coNP ⊆ SUBE ?
+* NP ∩ coNP ⊆ QP ?
+* NP ∩ coNP = P ?
+* P = NP ?
+
+| Problem | in NP (AM) | in coNP (coAM) | in SUBE | in QuasiP | in P | Paper Source / Citation |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Primality Testing** | ✓ | ✓ | ✓ | ✓ | ✓ | [AKS02], [Pra75] |
 | **Integer Factorization** | ✓ | ✓ | ✓ | ? | ? | [Pom84], [LLMP90], [Sho94] |
@@ -28,7 +33,6 @@
 
 * `SUBEXP` should be `SUBE`
 * Assume Derandomization, i.e. AM=NP, coAM=coNP, BPP=P
-* Three Steps: (1) Subexp Time Algorithms for NP ∩ coNP (2) NP ∩ coNP ⊆ QP (3) NP ∩ coNP = P
 * The quasi-polynomial time algorithm for the Discrete Logarithm problem with fixed characteristic.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
 * A quasi-polynomial time algorithm for poyUnknotting Problem is claimed in 2021 by Lackenby. However the result has not been published yet.
