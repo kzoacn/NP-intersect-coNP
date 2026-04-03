@@ -6,15 +6,15 @@
 | **Primality Testing** | ✓ | ✓ | ✓ | ✓ | ✓ | [AKS02], [Pra75] |
 | **Integer Factorization** | ✓ | ✓ | ✓ | ? | ? | [Pom84], [LLMP90], [Sho94] |
 | **Discrete Logarithm** | ✓ | ✓ | ✓* | ✓* | ? | [Adl79], [KW22], [Sho94] |
-| **Verifying the class number of algebraic number fields** | ✓ | ✓ (GRH) | ✓ | ? | ? | [HM89], [Thi94] |
-| **Polynomial algebraic dependence testing (Algebraic Dependence)** | ✓ (AM) | ✓ (coAM) | ? | ? | ? | [GSS18] |
+| **Class Number of Algebraic number fields** | ✓ | ✓ (GRH) | ✓ | ? | ? | [HM89], [Thi94] |
+| **Algebraic Dependence** | ✓ (AM) | ✓ (coAM) | ? | ? | ? | [GSS18] |
 | **Graph Isomorphism** | ✓ | ✓ (coAM) | ✓ | ✓ | ? | [BL83],[Bab85],[Bab16] |
 | **Group Isomorphism** | ✓ | ✓ (coAM) | ✓ | ✓ | ? | [Mil78], [Bab85] |
 | **Ring Isomorphism** | ✓ | ✓ (coAM) | ? | ? | ? | [KS06] |
 | **Tensor Isomorphism** | ✓ | ✓ (coAM,*) | ? | ? | ? | [GQ21] |
 | **Code Equivalence** | ✓ | ✓ (coAM) | ? | ? | ? | [PR02] |
-| **GapCVP ($ \sqrt{n} $-approximation)** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
-| **GapSVP ($ \sqrt{n} $-approximation)** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
+| **GapCVP-\sqrt{n}** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
+| **GapSVP-\sqrt{n}** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
 | **Linear Programming** | ✓ | ✓ | ✓ | ✓ | ✓ | [Kar84], [Kha79],[Far02] |
 | **Parity games** | ✓ | ✓ | ✓ | ✓ | ? | [Jur98] , [BSV03] ; [CJK+17], [EJ91] |
 | **Simple Stochastic Games** | ✓ | ✓ | ✓ | ? | ? | [Con92] , [Lud95] |
