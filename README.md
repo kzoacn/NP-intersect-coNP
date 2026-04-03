@@ -1,4 +1,4 @@
-# Summary Table of Computational Complexity and Algorithmic Problem Classification
+# Are Languages in NP ∩ coNP Easy to Decide?
 
 Based on a summary of relevant literature, the following is a classification summary of computational problems across various complexity classes (NP ∩ coNP and its variants AM ∩ coAM), as well as subexponential time (SUBEXP), quasi-polynomial time (QuasiP), and polynomial time (P) algorithms.
 
