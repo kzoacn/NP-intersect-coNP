@@ -21,7 +21,7 @@
 | **Mean-payoff games** | ✓ | ✓ | ✓ | ? | ? | [ZP96] , [Lud95] |
 | **ARRIVAL problem** | ✓ | ✓ | ✓ | ? | ? | [DGK+17], [GHH21] |
 | **3-Sphere Recognition** | ✓ | ✓ (GRH) | ? | ? | ? | [Sch11], [Zen18] |
-| **Unknotting Problem** | ✓ | ✓ | ✓ | ✓ | ? | [HLP99] ; [Lac21] |
+| **Unknotting Problem** | ✓ | ✓ | ✓ | ✓* | ? | [HLP99] ; [Lac21] |
  
 ---
 ## Remarks
@@ -31,6 +31,7 @@
 * Three Steps: (1) Subexp Time Algorithms for NP ∩ coNP (2) NP ∩ coNP ⊆ QP (3) NP ∩ coNP = P
 * The quasi-polynomial time algorithm for the Discrete Logarithm problem with fixed characteristic.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
+* A quasi-polynomial time algorithm for poyUnknotting Problem is claimed in 2021 by Lackenby. However the result has not been published yet.
 
 ## References
 
