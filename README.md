@@ -31,7 +31,7 @@
 ---
 ## Remarks
 
-* `SUBEXP` should be `SUBE`
+* `SUBE` refer to 2^{o(n)}
 * Assume Derandomization, i.e. AM=NP, coAM=coNP, BPP=P
 * The quasi-polynomial time algorithm for the Discrete Logarithm problem with fixed characteristic.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
