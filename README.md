@@ -1,12 +1,11 @@
 # Are Languages in NP ∩ coNP Easy to Decide?
-
-Based on a summary of relevant literature, the following is a classification summary of computational problems across various complexity classes (NP ∩ coNP and its variants AM ∩ coAM), as well as subexponential time (SUBEXP), quasi-polynomial time (QuasiP), and polynomial time (P) algorithms.
+ 
 
 | Problem | in NP (AM) | in coNP (coAM) | in SUBEXP | in QuasiP | in P | Paper Source / Citation |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Primality Testing** | ✓ | ✓ | ✓ | ✓ | ✓ | [AKS02], [Pra75] |
 | **Integer Factorization** | ✓ | ✓ | ✓ | ? | ? | [Pom84], [LLMP90], [Sho94] |
-| **Discrete Logarithm** | ✓ | ✓ | ✓* | ✓* | ? | [Adl79], [KW22] (For Finite Field with fix char), [Sho94] |
+| **Discrete Logarithm** | ✓ | ✓ | ✓* | ✓* | ? | [Adl79], [KW22], [Sho94] |
 | **Verifying the class number of algebraic number fields** | ✓ | ✓ (GRH) | ✓ | ? | ? | [HM89], [Thi94] |
 | **Polynomial algebraic dependence testing (Algebraic Dependence)** | ✓ (AM) | ✓ (coAM) | ? | ? | ? | [GSS18] |
 | **Graph Isomorphism** | ✓ | ✓ (coAM) | ✓ | ✓ | ? | [BL83],[Bab85],[Bab16] |
@@ -27,7 +26,8 @@ Based on a summary of relevant literature, the following is a classification sum
 ---
 ## Remarks
 
-* The quasi-polynomial time algorithm for the Discrete Logarithm problem with fixed characteristic ps is (pn)^(polylog(n)).
+* `SUBEXP` should be `SUBE`
+* The quasi-polynomial time algorithm for the Discrete Logarithm problem with fixed characteristic.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
 
 ## References
