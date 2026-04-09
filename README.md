@@ -13,7 +13,7 @@
 | **Discrete Logarithm** | ✓ | ✓ | ✓* | ✓* | ? | [Adl79], [KW22], [Sho94] |
 | **Class Number of Algebraic number fields** | ✓ | ✓ (GRH) | ✓ | ? | ? | [HM89], [Thi94] |
 | **Algebraic Dependence** | ✓ (AM) | ✓ (coAM) | ? | ? | ? | [GSS18] |
-| **Linear Programming** | ✓ | ✓ | ✓ | ✓ | ✓ | [Kar84], [Kha79],[Far02] |
+| **Linear Programming** | ✓ | ✓ | ✓ | ✓ | ✓ | [Kar84], [Kha79],[Far02],[Hal07] |
 | **Parity games** | ✓ | ✓ | ✓ | ✓ | ? | [Jur98] , [BSV03] ; [CJK+17], [EJ91] |
 | **Simple Stochastic Games** | ✓ | ✓ | ✓ | ? | ? | [Con92] , [Lud95] |
 | **Mean-payoff games** | ✓ | ✓ | ✓ | ? | ? | [ZP96] , [Lud95] |
@@ -58,6 +58,7 @@
 * **[GHH21]** Gärtner, B., Haslebacher, S., & Hoang, H. P. (2021). A subexponential algorithm for ARRIVAL. arXiv preprint arXiv:2102.06427.
 * **[HM89]** Hafner, J. L., & McCurley, K. S. (1989). A rigorous subexponential algorithm for computation of class groups. Journal of the American mathematical society, 2(4), 837-850.
 * **[HLP99]** Hass, J., Lagarias, J. C., & Pippenger, N. (1999). The computational complexity of knot and link problems. Journal of the ACM (JACM), 46(2), 185-211.
+* **[Hal07]** Halman, N. (2007). Simple stochastic games, parity games, mean payoff games and discounted payoff games are all LP-type problems. Algorithmica, 49(1), 37-50.
 * **[Jur98]** Jurdziński, M. (1998). Deciding the winner in parity games is in UP∩ co-UP. Information Processing Letters, 68(3), 119-124.
 * **[KS06]** Kayal, N., & Saxena, N. (2006). Complexity of ring morphism problems. computational complexity, 15(4), 342-390.
 * **[Kar84]** Karmarkar, N. (1984, December). A new polynomial-time algorithm for linear programming. In Proceedings of the sixteenth annual ACM symposium on Theory of computing (pp. 302-311).
