@@ -14,7 +14,7 @@
 | **Class Number of Algebraic number fields** | ✓ | ✓ (GRH) | ✓ | ? | ? | [HM89], [Thi94] |
 | **Algebraic Dependence** | ✓ (AM) | ✓ (coAM) | ? | ? | ? | [GSS18] |
 | **Linear Programming** | ✓ | ✓ | ✓ | ✓ | ✓ | [Kar84], [Kha79],[Far02],[Hal07] |
-| **Parity games** | ✓ | ✓ | ✓ | ✓ | ? | [Jur98] , [BSV03] ; [CJK+17], [EJ91] |
+| **Parity games** | ✓ | ✓ | ✓ | ✓ | ?* | [Jur98] , [BSV03] ; [CJK+17], [EJ91],[vdH25] |
 | **Simple Stochastic Games** | ✓ | ✓ | ✓ | ? | ? | [Con92] , [Lud95] |
 | **Mean-payoff games** | ✓ | ✓ | ✓ | ? | ? | [ZP96] , [Lud95] |
 | **ARRIVAL problem** | ✓ | ✓ | ✓ | ? | ? | [DGK+17], [GHH21] |
@@ -75,5 +75,6 @@
 * **[Sho94]** Shor, P. W. (1994, November). Algorithms for quantum computation: discrete logarithms and factoring. In Proceedings 35th annual symposium on foundations of computer science (pp. 124-134). Ieee.
 * **[Mil78]** Miller, G. L. (1978, May). On the nlog n isomorphism technique (a preliminary report). In Proceedings of the tenth annual ACM symposium on theory of computing (pp. 51-58).
 * **[Thi94]** Thiel, Christoph. "Under the assumption of the Generalized Riemann Hypothesis verifying the class number belongs to NP∩ co-NP." International Algorithmic Number Theory Symposium. Berlin, Heidelberg: Springer Berlin Heidelberg, 1994.
+* **[vdH25]** van der Heijden, R. (2025). Attractors Is All You Need: Parity Games In Polynomial Time. arXiv preprint arXiv:2511.03752.
 * **[Zen18]** Zentner, R. (2018). Integer homology 3-spheres admit irreducible representations in SL (2, C).
 * **[ZP96]** Zwick, U., & Paterson, M. (1996). The complexity of mean payoff games on graphs. Theoretical Computer Science, 158(1-2), 343-359.
