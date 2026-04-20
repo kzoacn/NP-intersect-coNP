@@ -86,5 +86,5 @@
 
 ## Acknowledge
 
-The authors thank Zhengyang Liu for valuable discussions covering TFNP, PPAD, UGC, and beyond. We also appreciate the helpful discussions with Anyu Wang, Wenhan Huang, and Yiding Feng, alongside EI, 142857cs, Tylemom, QingzhiMao, and Fast Photon from the UOJ community.
+We thank Zhengyang Liu for valuable discussions covering TFNP, PPAD, UGC, and beyond. We also appreciate the helpful discussions with Anyu Wang, Wenhan Huang, and Yiding Feng, alongside EI, 142857cs, Tylemon, QingzhiMao, and Fast Photon from the UOJ QQ Chat Group.
 
