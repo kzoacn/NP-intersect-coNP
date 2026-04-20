@@ -83,3 +83,8 @@
 * **[vdH25]** van der Heijden, R. (2025). Attractors Is All You Need: Parity Games In Polynomial Time. arXiv preprint arXiv:2511.03752.
 * **[Zen18]** Zentner, R. (2018). Integer homology 3-spheres admit irreducible representations in SL (2, C).
 * **[ZP96]** Zwick, U., & Paterson, M. (1996). The complexity of mean payoff games on graphs. Theoretical Computer Science, 158(1-2), 343-359.
+
+## Acknowledge
+
+The authors thank Zhengyang Liu for meaningful discussions covering TFNP, PPAD, UGC, and beyond. We also appreciate the valuable discussions with Anyu Wang, Wenhan Huang, and Yiding Feng, alongside EI, 142857cs, Tylemom, QingzhiMao, and Fast Photon from the UOJ community.
+
