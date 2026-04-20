@@ -23,6 +23,7 @@
 | **Ring Isomorphism** | ✓ | ✓ (coAM) | ? | ? | ? | [KS06] |
 | **Tensor Isomorphism** | ✓ | ✓ (coAM,*) | ? | ? | ? | [GQ21] |
 | **Code Equivalence** | ✓ | ✓ (coAM) | ? | ? | ? | [PR02] |
+| **Unique Game** | ✓ | ? | ✓ | ? | ? | [Kho02],[ABD15] |
 | **GapCVP-$\sqrt{n}$** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
 | **GapSVP-$\sqrt{n}$** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
 | **3-Sphere Recognition** | ✓ | ✓ (GRH) | ? | ? | ? | [Sch11], [Zen18] |
@@ -43,6 +44,7 @@
 ## References
 
 * **[Adl79]** Adleman, L. (1979, October). A subexponential algorithm for the discrete logarithm problem with applications to cryptography. In Proceedings of the 20th Annual Symposium on Foundations of Computer Science (pp. 55-60).
+* **[ABD15]** Arora, S., Barak, B., & Steurer, D. (2015). Subexponential algorithms for unique games and related problems. Journal of the ACM (JACM), 62(5), 1-25.
 * **[AKS02]** Agrawal, M., Kayal, N., & Saxena, N. (2004). PRIMES is in P. Annals of mathematics, 781-793.
 * **[AR04]** Aharonov, D., & Regev, O. (2005). Lattice problems in NP∩ coNP. Journal of the ACM (JACM), 52(5), 749-765.
 * **[BL83]** Babai, L., & Luks, E. M. (1983, December). Canonical labeling of graphs. In Proceedings of the fifteenth annual ACM symposium on Theory of computing (pp. 171-183).
@@ -65,6 +67,7 @@
 * **[KS06]** Kayal, N., & Saxena, N. (2006). Complexity of ring morphism problems. computational complexity, 15(4), 342-390.
 * **[Kar84]** Karmarkar, N. (1984, December). A new polynomial-time algorithm for linear programming. In Proceedings of the sixteenth annual ACM symposium on Theory of computing (pp. 302-311).
 * **[Kha79]** Khachiyan, L. G. (1979). *A polynomial algorithm in linear programming*.
+* **[Kho02]** Khot, S. (2002, May). On the power of unique 2-prover 1-round games. In Proceedings of the thiry-fourth annual ACM symposium on Theory of computing (pp. 767-775).
 * **[LLMP90]** Lenstra, A. K., Lenstra Jr, H. W., Manasse, M. S., & Pollard, J. M. (1990, April). The number field sieve. In Proceedings of the twenty-second annual ACM symposium on Theory of computing (pp. 564-572).
 * **[Lac21]** Lackenby, M. (2021). The efficient certification of knottedness and Thurston norm. Advances in Mathematics, 387, 107796.
 * **[Lud95]** Ludwig, W. (1995). A subexponential randomized algorithm for the simple stochastic game problem. Information and computation, 117(1), 151-155.
