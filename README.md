@@ -13,6 +13,8 @@
 | **Discrete Logarithm** | ✓ | ✓ | ✓* | ✓* | ? | [Adl79], [KW22], [Sho94] |
 | **Class Number of Algebraic number fields** | ✓ | ✓ (GRH) | ✓ | ? | ? | [HM89], [Thi94] |
 | **Algebraic Dependence** | ✓ (AM) | ✓ (coAM) | ? | ? | ? | [GSS18] |
+| **SQISign** | ✓ | ✓ | ? | ? | ? | TODO |
+| **CSIDH** | ✓ | ✓ | ✓* | ? | ? | TODO |
 | **Linear Programming** | ✓ | ✓ | ✓ | ✓ | ✓ | [Kar84], [Kha79],[Far02],[Hal07] |
 | **Parity games** | ✓ | ✓ | ✓ | ✓ | ?* | [Jur98] , [BSV03] ; [CJK+17], [EJ91],[vdH25] |
 | **Simple Stochastic Games** | ✓ | ✓ | ✓ | ? | ? | [Con92] , [Lud95] |
@@ -29,6 +31,7 @@
 | **3-Sphere Recognition** | ✓ | ✓ (GRH) | ? | ? | ? | [Sch11], [Zen18] |
 | **Unknotting Problem** | ✓ | ✓ | ?* | ?* | ? | [HLP99] ; [Lac21] |
 | **Statistical Difference** | ✓ (AM)| ✓ (coAM) | ? | ? | ? | [SV03] |
+
  
 ---
 ## Remarks
