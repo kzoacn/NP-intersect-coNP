@@ -56,6 +56,7 @@
 * **[Bab16]** Babai, L. (2016, June). Graph isomorphism in quasipolynomial time. In Proceedings of the forty-eighth annual ACM symposium on Theory of Computing (pp. 684-697).
 * **[BDGL16]**, Becker, A., Ducas, L., Gama, N., & Laarhoven, T. (2016). New directions in nearest neighbor searching with applications to lattice sieving. In Proceedings of the twenty-seventh annual ACM-SIAM symposium on Discrete algorithms (pp. 10-24). Society for Industrial and Applied Mathematics.
 * **[BSV03]** Björklund, H., Sandberg, S., & Vorobyov, S. (2003). Randomized subexponential algorithms for parity games.
+* **[BGJT]** Barbulescu, R., Gaudry, P., Joux, A., & Thomé, E. (2014, May). A heuristic quasi-polynomial algorithm for discrete logarithm in finite fields of small characteristic. In Annual International Conference on the Theory and Applications of Cryptographic Techniques (pp. 1-16). Berlin, Heidelberg: Springer Berlin Heidelberg.
 * **[CJK+17]** Calude, C. S., Jain, S., Khoussainov, B., Li, W., & Stephan, F. (2017, June). Deciding parity games in quasipolynomial time. In Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing (pp. 252-263).
 * **[Con92]** Condon, A. (1992). The complexity of stochastic games. Information and Computation, 96(2), 203-224.
 * **[DGK+17]** Dohrau, J., Gärtner, B., Kohler, M., Matoušek, J., & Welzl, E. (2017). ARRIVAL: a zero-player graph game in NP∩ coNP. In A Journey Through Discrete Mathematics: A Tribute to Jiří Matoušek (pp. 367-374). Cham: Springer International Publishing.
