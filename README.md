@@ -42,7 +42,7 @@
 * A quasi-polynomial time algorithm for the Discrete Logarithm problem over *finite fields of fixed characteristic*.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
 * A quasi-polynomial time algorithm for the Unknotting Problem was claimed by Lackenby in 2021. However, the result has not been formally published yet.
-* The best known Exact SVP/CVP algorithm runs in O(2^{0.292n}). However, The input size of SVP/CVP is O(n^2). 
+* The best known Exact SVP/CVP algorithm runs in O(2^{0.292n}). However, The input size of SVP/CVP is O(n^2). So, It runs in *subexponential* time.
 
 
 ## References
