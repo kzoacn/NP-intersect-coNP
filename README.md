@@ -26,8 +26,8 @@
 | **Tensor Isomorphism** | ✓ | ✓ (coAM,*) | ? | ? | ? | [GQ21] |
 | **Code Equivalence** | ✓ | ✓ (coAM) | ? | ? | ? | [PR02] |
 | **Unique Game** | ✓ | ? | ✓ | ? | ? | [Kho02],[ABD15] |
-| **GapCVP-$\sqrt{n}$** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
-| **GapSVP-$\sqrt{n}$** | ✓ | ✓ | ? | ? | ? | [AR04],[GG98] |
+| **GapCVP-$\sqrt{n}$** | ✓ | ✓ | ✓* | ? | ? | [AR04],[GG98],[BDGL16] |
+| **GapSVP-$\sqrt{n}$** | ✓ | ✓ | ✓* | ? | ? | [AR04],[GG98],[BDGL16] |
 | **3-Sphere Recognition** | ✓ | ✓ (GRH) | ? | ? | ? | [Sch11], [Zen18] |
 | **Unknotting Problem** | ✓ | ✓ | ?* | ?* | ? | [HLP99] ; [Lac21] |
 | **Statistical Difference** | ✓ (AM)| ✓ (coAM) | ? | ? | ? | [SV03] |
@@ -42,6 +42,7 @@
 * A quasi-polynomial time algorithm for the Discrete Logarithm problem over *finite fields of fixed characteristic*.
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
 * A quasi-polynomial time algorithm for the Unknotting Problem was claimed by Lackenby in 2021. However, the result has not been formally published yet.
+* The best known Exact SVP/CVP algorithm runs in O(2^{0.292n}). However, The input size of SVP/CVP is O(n^2). 
 
 
 ## References
@@ -53,6 +54,7 @@
 * **[BL83]** Babai, L., & Luks, E. M. (1983, December). Canonical labeling of graphs. In Proceedings of the fifteenth annual ACM symposium on Theory of computing (pp. 171-183).
 * **[Bab85]** Babai, L. (1985, December). Trading group theory for randomness. In Proceedings of the seventeenth annual ACM symposium on Theory of computing (pp. 421-429).
 * **[Bab16]** Babai, L. (2016, June). Graph isomorphism in quasipolynomial time. In Proceedings of the forty-eighth annual ACM symposium on Theory of Computing (pp. 684-697).
+* **[BDGL16]**, Becker, A., Ducas, L., Gama, N., & Laarhoven, T. (2016). New directions in nearest neighbor searching with applications to lattice sieving. In Proceedings of the twenty-seventh annual ACM-SIAM symposium on Discrete algorithms (pp. 10-24). Society for Industrial and Applied Mathematics.
 * **[BSV03]** Björklund, H., Sandberg, S., & Vorobyov, S. (2003). Randomized subexponential algorithms for parity games.
 * **[CJK+17]** Calude, C. S., Jain, S., Khoussainov, B., Li, W., & Stephan, F. (2017, June). Deciding parity games in quasipolynomial time. In Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing (pp. 252-263).
 * **[Con92]** Condon, A. (1992). The complexity of stochastic games. Information and Computation, 96(2), 203-224.
