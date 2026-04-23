@@ -10,7 +10,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Primality Testing** | ✓ | ✓ | ✓ | ✓ | ✓ | [AKS02], [Pra75] |
 | **Integer Factorization** | ✓ | ✓ | ✓ | ? | ? | [Pom84], [LLMP90], [Sho94] |
-| **Discrete Logarithm** | ✓ | ✓ | ✓ | ✓* | ? | [Adl79], [KW22], [Sho94],[BGJT14] |
+| **Discrete Logarithm** | ✓ | ✓ | ✓* | ✓* | ? | [Adl79], [KW22], [Sho94],[BGJT14] |
 | **Class Number of Algebraic number fields** | ✓ | ✓ (GRH) | ✓ | ? | ? | [HM89], [Thi94] |
 | **Algebraic Dependence** | ✓ (AM) | ✓ (coAM) | ? | ? | ? | [GSS18] |
 | **SQISign** | ✓ | ✓ | ? | ? | ? | TODO |
