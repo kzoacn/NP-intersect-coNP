@@ -92,5 +92,5 @@
 
 ## Acknowledge
 
-We thank Zhengyang Liu for valuable discussions covering TFNP, PPAD, UGC, and beyond. We also appreciate the helpful discussions with Anyu Wang, Chihao Zhang, Wenhan Huang, and Yiding Feng, alongside EI, 142857cs, Tylemon, QingzhiMao, and Fast Photon from the UOJ QQ Chat Group.
+We thank Zhengyang Liu for valuable discussions covering TFNP, PPAD, UGC, and beyond. We also appreciate the helpful discussions with Anyu Wang, Kaijie Jiang, Youlong Ding, Chihao Zhang, Wenhan Huang, and Yiding Feng, alongside EI, 142857cs, Tylemon, QingzhiMao, and Fast Photon from the UOJ QQ Chat Group.
 
