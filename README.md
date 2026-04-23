@@ -1,7 +1,7 @@
 # Are Languages in NP ∩ coNP Easy to Decide?
 
 
-* NP ∩ coNP ⊆ SUBE ?
+* NP ∩ coNP ⊆ SUBEXP ?
 * NP ∩ coNP ⊆ QP ?
 * NP ∩ coNP = P ?
 * P = NP ?
@@ -36,7 +36,7 @@
 ---
 ## Remarks
 
-* SUBE refers to DTIME($2^{o(n)}$)
+* SUBEXP refers to DTIME($2^{o(n)}$)
 * Assume Derandomization, i.e. AM=NP, coAM=coNP, BPP=P
 * A preprint [vdH25] claim parity game is in P
 * A quasi-polynomial time algorithm for the Discrete Logarithm problem over *finite fields of fixed characteristic*.
