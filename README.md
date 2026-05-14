@@ -43,7 +43,7 @@
 * Tensor Isomorphism over finite fields is in NP ∩ coNP.
 * A quasi-polynomial time algorithm for the Unknotting Problem was claimed by Lackenby in 2021. However, the result has not been formally published yet.
 * The best known Exact SVP/CVP algorithm runs in O(2^{0.292n}). However, The input size of SVP/CVP is O(n^2). So, It runs in *subexponential* time.
-
+* (Decision version) one-way permutation implies hard NP ∩ coNP, homomorphic encryption implies hard SZK, see [BDV17].
 
 ## References
 
@@ -55,6 +55,7 @@
 * **[Bab85]** Babai, L. (1985, December). Trading group theory for randomness. In Proceedings of the seventeenth annual ACM symposium on Theory of computing (pp. 421-429).
 * **[Bab16]** Babai, L. (2016, June). Graph isomorphism in quasipolynomial time. In Proceedings of the forty-eighth annual ACM symposium on Theory of Computing (pp. 684-697).
 * **[BDGL16]**, Becker, A., Ducas, L., Gama, N., & Laarhoven, T. (2016). New directions in nearest neighbor searching with applications to lattice sieving. In Proceedings of the twenty-seventh annual ACM-SIAM symposium on Discrete algorithms (pp. 10-24). Society for Industrial and Applied Mathematics.
+* **[BDV17]** Bitansky, N., Degwekar, A., & Vaikuntanathan, V. (2017, July). Structure vs. hardness through the obfuscation lens. In Annual International Cryptology Conference (pp. 696-723). Cham: Springer International Publishing.
 * **[BSV03]** Björklund, H., Sandberg, S., & Vorobyov, S. (2003). Randomized subexponential algorithms for parity games.
 * **[BGJT14]** Barbulescu, R., Gaudry, P., Joux, A., & Thomé, E. (2014, May). A heuristic quasi-polynomial algorithm for discrete logarithm in finite fields of small characteristic. In Annual International Conference on the Theory and Applications of Cryptographic Techniques (pp. 1-16). Berlin, Heidelberg: Springer Berlin Heidelberg.
 * **[CJK+17]** Calude, C. S., Jain, S., Khoussainov, B., Li, W., & Stephan, F. (2017, June). Deciding parity games in quasipolynomial time. In Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing (pp. 252-263).
